@@ -1,0 +1,17 @@
+body {
+    background-color: #212121;
+}
+
+.watch-container {
+    font-size: 4em;
+    text-align: center;
+    margin: 300px auto 0;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.watch-container span {
+    padding: 20px;
+    background-color: #798f65;
+    border-radius: 10px;
+}
