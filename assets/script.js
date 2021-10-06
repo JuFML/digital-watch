@@ -10,7 +10,7 @@ const reloadClock = () => {
 
     const watchHTML = `
     <span>${String(hour).length === 1 ? `0${hour}`: hour}</span> :
-    <span>${String(minutes).length === 1 ? `0${minutes}`: hour}</span> :
+    <span>${String(minutes).length === 1 ? `0${minutes}`: minutes}</span> :
     <span>${String(seconds).length === 1 ? `0${seconds}`: seconds}</span>
     `
 
